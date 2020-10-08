@@ -1,0 +1,33 @@
+/**** Home - Premium Banner - Title BG ****/
+h3.premium-banner-ib-title.premium_banner_title {
+    background-color: #ef3f49;
+    text-align: center!important;
+}
+
+
+
+/*** Home - Products Price ***/
+.woocommerce ul.products li.product .price, .woocommerce ul.products li.product .price .amount {
+    color: #44c4ac;
+    font-family: rubik;
+}
+
+.woocommerce ul.products li.product .woo-entry-inner li {
+    margin-bottom: 0;
+}
+
+
+
+/*** Wishlist ***/
+a.tinvwl_add_to_wishlist_button.tinvwl-icon-heart.tinvwl-position-after {
+    background: #ef3f49;
+    padding: 2px 7px;
+    color: #fff;
+}
+
+
+/**** Search Icon Header ****/
+span.icon-magnifier {
+    font-size: 24px;
+    vertical-align: middle;
+}
